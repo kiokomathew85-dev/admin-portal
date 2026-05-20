@@ -1,0 +1,10 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Sample Laptop",
+      "price": 999,
+      "description": "High performance workstation laptop."
+    }
+  ]
+}
